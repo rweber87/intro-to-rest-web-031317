@@ -10,6 +10,7 @@
 
 In 2000, Roy Thomas Fielding was frustrated by the hap-hazard different ways web applications were using the HTTP standard. Specifically he was frustrated with how URLs and their corresponding HTTP Verbs were used differently for every single application. So, in his PhD dissertation he came up with REST or REpresentational State Transfer as a standard way web apps should structure their URLs. It also suggested a few other things, but we focus mostly on how it changed URLs. Fielding also noticed the rise in web applications communicating with each other. Using this standard way of forming URLs to access resources, Fielding hoped that inter-application communication would get much easier.
 
+
 There is a good chance that you have already worked with RESTful APIs. Integrating a Facebook login, getting repository data from Github, having something in your application post to Twitter, pulling in a feed of images from Instagram, or even calling a list of locations from Google Maps are all examples of using a RESTful API to communicate between applications.
 
 ## Example REST Workflow
